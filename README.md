@@ -1,4 +1,4 @@
-rrЗапуск проекта
+Запуск проекта
 
 0. Установка python 3.9 (arch linux): `yay -S python39`
 1. Установить Rasa: `pip3 install rasa`
